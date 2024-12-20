@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hello, I'm AmeUr56 👋
 
-<!--
-**AmeUr56/AmeUr56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![AmeUr56's Stats](https://github-readme-stats.vercel.app/api?username=AmeUr56&theme=prussian&show_icons=true&hide_border=false&count_private=true)
+![AmeUr56's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AmeUr56&theme=prussian&hide_border=false)
+![AmeUr56's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmeUr56&theme=prussian&show_icons=true&hide_border=false&layout=compact)
 
-Here are some ideas to get you started:
+## Contact Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can reach me at:
+
+- **Email**: [your-email@example.com](mailto:your-email@example.com)
+- **LinkedIn**: [your-linkedin-profile](https://www.linkedin.com/in/your-linkedin-profile)
+- **Twitter**: [@your-twitter-handle](https://twitter.com/your-twitter-handle)
+- **Website**: [your-website.com](https://your-website.com)
+
+Feel free to reach out if you want to collaborate or have any questions!
